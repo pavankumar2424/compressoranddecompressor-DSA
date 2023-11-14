@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Meghana
+ * @author Pavan
  */
 public class AppFrame extends JFrame implements ActionListener {
     JButton compressButton;
